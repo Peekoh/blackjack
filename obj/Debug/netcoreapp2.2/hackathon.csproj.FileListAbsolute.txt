@@ -1,0 +1,11 @@
+/home/peekoh/Documents/coding_dojo/net/hackathon/obj/Debug/netcoreapp2.2/hackathon.csprojAssemblyReference.cache
+/home/peekoh/Documents/coding_dojo/net/hackathon/obj/Debug/netcoreapp2.2/hackathon.csproj.CoreCompileInputs.cache
+/home/peekoh/Documents/coding_dojo/net/hackathon/obj/Debug/netcoreapp2.2/hackathon.AssemblyInfoInputs.cache
+/home/peekoh/Documents/coding_dojo/net/hackathon/obj/Debug/netcoreapp2.2/hackathon.AssemblyInfo.cs
+/home/peekoh/Documents/coding_dojo/net/hackathon/bin/Debug/netcoreapp2.2/hackathon.deps.json
+/home/peekoh/Documents/coding_dojo/net/hackathon/bin/Debug/netcoreapp2.2/hackathon.runtimeconfig.json
+/home/peekoh/Documents/coding_dojo/net/hackathon/bin/Debug/netcoreapp2.2/hackathon.runtimeconfig.dev.json
+/home/peekoh/Documents/coding_dojo/net/hackathon/bin/Debug/netcoreapp2.2/hackathon.dll
+/home/peekoh/Documents/coding_dojo/net/hackathon/bin/Debug/netcoreapp2.2/hackathon.pdb
+/home/peekoh/Documents/coding_dojo/net/hackathon/obj/Debug/netcoreapp2.2/hackathon.dll
+/home/peekoh/Documents/coding_dojo/net/hackathon/obj/Debug/netcoreapp2.2/hackathon.pdb
