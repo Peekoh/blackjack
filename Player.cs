@@ -1,17 +1,25 @@
-class Player : Person{
-    public Player(){
+using deck;
+
+class Player : Person
+{
+    public Player()
+    {
         //new deck
         this.HandValue = 0;
     }
-   public void Draw(string i, deck d){
-        if (i == "draw"){
+    public void Action(string s, Deck d)
+    {
+        if (s == "hit")
+        {
+            Card c = d.Deal();
+            this.HandValue += c.Val;
+        }
+        else if (s == "hold")
+        {
 
         }
+        if(this.HandValue )
     }
-    public void Hold(string i){
-        if(i == "hold"){
 
-        }
-    }
 
 }
