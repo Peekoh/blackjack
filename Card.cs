@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace deck
+namespace hackathon
 {
     class Card
     {
