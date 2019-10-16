@@ -14,13 +14,14 @@ namespace hackathon
             string j = System.Console.ReadLine();
             if (j == "y")
             {
+                this.HandValue = 0;
                 this.IsGame = true;
                 for (int i = 0; i < 2; i++)
                 {
                     Card c = d.Deal();
                     this.HandValue += c.Val;
                 }
-                    this.getInfo();
+                //this.getInfo();
             }
             else
             {
@@ -31,22 +32,29 @@ namespace hackathon
         {
             System.Console.WriteLine($"You are at {this.HandValue}");
         }
-        public void Action(string s, Deck d)
+        public void Action(Deck deck)
         {
+            this.getInfo();
+            System.Console.WriteLine("hit or hold?");
+            string s = System.Console.ReadLine();
             if (s == "hit")
             {
-                Card c = d.Deal();
+                Card c = deck.Deal();
                 this.HandValue += c.Val;
             }
             else if (s == "hold")
             {
+                System.Console.WriteLine("You hold");
                 this.IsTurn = false;
                 this.IsGame = false;
             }
-            if (this.HandValue > 21)
+            if (this.HandValue == 21)
             {
-                System.Console.WriteLine("Bust! \n GAME OVER");
-                this.HandValue = 0;
+                System.Console.WriteLine("You won!");
+            }
+            else if (this.HandValue > 21)
+            {
+                System.Console.WriteLine($"Bust at {this.HandValue} \nGAME OVER");
                 this.IsGame = false;
             }
         }
