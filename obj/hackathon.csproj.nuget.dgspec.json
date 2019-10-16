@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/peekoh/Documents/coding_dojo/net/hackathon/hackathon.csproj": {}
+  },
+  "projects": {
+    "/home/peekoh/Documents/coding_dojo/net/hackathon/hackathon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/peekoh/Documents/coding_dojo/net/hackathon/hackathon.csproj",
+        "projectName": "hackathon",
+        "projectPath": "/home/peekoh/Documents/coding_dojo/net/hackathon/hackathon.csproj",
+        "packagesPath": "/home/peekoh/.nuget/packages/",
+        "outputPath": "/home/peekoh/Documents/coding_dojo/net/hackathon/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/peekoh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
