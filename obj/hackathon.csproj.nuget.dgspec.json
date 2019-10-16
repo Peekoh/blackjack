@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/peekoh/Documents/coding_dojo/net/hackathon/hackathon.csproj": {}
+    "C:\\Users\\sungj\\desktop\\blackjack\\blackjack\\hackathon.csproj": {}
   },
   "projects": {
-    "/home/peekoh/Documents/coding_dojo/net/hackathon/hackathon.csproj": {
+    "C:\\Users\\sungj\\desktop\\blackjack\\blackjack\\hackathon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/peekoh/Documents/coding_dojo/net/hackathon/hackathon.csproj",
+        "projectUniqueName": "C:\\Users\\sungj\\desktop\\blackjack\\blackjack\\hackathon.csproj",
         "projectName": "hackathon",
-        "projectPath": "/home/peekoh/Documents/coding_dojo/net/hackathon/hackathon.csproj",
-        "packagesPath": "/home/peekoh/.nuget/packages/",
-        "outputPath": "/home/peekoh/Documents/coding_dojo/net/hackathon/obj/",
+        "projectPath": "C:\\Users\\sungj\\desktop\\blackjack\\blackjack\\hackathon.csproj",
+        "packagesPath": "C:\\Users\\sungj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sungj\\desktop\\blackjack\\blackjack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/peekoh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sungj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

@@ -9,3 +9,14 @@
 /home/peekoh/Documents/coding_dojo/net/hackathon/bin/Debug/netcoreapp2.2/hackathon.pdb
 /home/peekoh/Documents/coding_dojo/net/hackathon/obj/Debug/netcoreapp2.2/hackathon.dll
 /home/peekoh/Documents/coding_dojo/net/hackathon/obj/Debug/netcoreapp2.2/hackathon.pdb
+C:\Users\sungj\desktop\blackjack\blackjack\obj\Debug\netcoreapp2.2\hackathon.csprojAssemblyReference.cache
+C:\Users\sungj\desktop\blackjack\blackjack\obj\Debug\netcoreapp2.2\hackathon.csproj.CoreCompileInputs.cache
+C:\Users\sungj\desktop\blackjack\blackjack\obj\Debug\netcoreapp2.2\hackathon.AssemblyInfoInputs.cache
+C:\Users\sungj\desktop\blackjack\blackjack\obj\Debug\netcoreapp2.2\hackathon.AssemblyInfo.cs
+C:\Users\sungj\desktop\blackjack\blackjack\obj\Debug\netcoreapp2.2\hackathon.dll
+C:\Users\sungj\desktop\blackjack\blackjack\obj\Debug\netcoreapp2.2\hackathon.pdb
+C:\Users\sungj\desktop\blackjack\blackjack\bin\Debug\netcoreapp2.2\hackathon.deps.json
+C:\Users\sungj\desktop\blackjack\blackjack\bin\Debug\netcoreapp2.2\hackathon.runtimeconfig.json
+C:\Users\sungj\desktop\blackjack\blackjack\bin\Debug\netcoreapp2.2\hackathon.runtimeconfig.dev.json
+C:\Users\sungj\desktop\blackjack\blackjack\bin\Debug\netcoreapp2.2\hackathon.dll
+C:\Users\sungj\desktop\blackjack\blackjack\bin\Debug\netcoreapp2.2\hackathon.pdb
