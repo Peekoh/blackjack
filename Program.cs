@@ -6,7 +6,10 @@ namespace hackathon
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("Hello World!");
+           Deck d = new Deck();
+           Player p = new Player();
+           p.StartGame(d);
+
                  }
     }
 }
